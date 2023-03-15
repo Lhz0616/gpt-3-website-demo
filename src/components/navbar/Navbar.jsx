@@ -2,7 +2,7 @@ import react from 'react';
 import { RiMenu3Line, RiCloseLin } from "react-icons/ri";
 import './navbar.css';
 
-import logo from "../../assets/logo.svg";
+import logo from "../assets/logo.svg";
 
 // BEM -> Block Element Modifier (Naming convention for className)
 
